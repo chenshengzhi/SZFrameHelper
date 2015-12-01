@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/chenshengzhi/SZFrameHelper"
 
-  s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author       = { "陈圣治" => "csz2136@163.com" }
 
