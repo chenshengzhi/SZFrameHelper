@@ -5,6 +5,10 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "SZFrameHelper"
 
+  s.description  = <<-DESC
+                   UIView category help to set frame
+                   DESC
+
   s.homepage     = "https://github.com/chenshengzhi/SZFrameHelper"
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
